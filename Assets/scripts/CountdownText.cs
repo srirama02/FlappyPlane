@@ -32,7 +32,7 @@ public class CountdownText : MonoBehaviour {
         }
         */
         OnCountdownFinished();
-
+//sdfasd
     }
 
 }
